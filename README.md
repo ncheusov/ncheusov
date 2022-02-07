@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Nikita Cheusov (@ncheusov)
-- 👀 I’m interested in WEB, Mobile Apps and IOS developing.
-- 🌱 I’m currently learning on Udemy, and im studied Front-end developing (HTML, CSS and more...), now im learn JavaScript and React 🚀
+- 👀 I’m interested in WEB, Mobile Apps and IOS development.
+- 🌱 I’m currently learning on Udemy and im studied Frontend developing (HTML, CSS, JS and other technologies..), now im learn React and Redux 🚀
+- 🤩 Hope i become a cool developer!
 
 
 <!---
