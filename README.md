@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nikita Cheusov (@ncheusov)
-- 👀 I’m interested in WEB & Mobile Apps.
+- 👀 I’m interested in WEB & Java.
 
 
 
